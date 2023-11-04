@@ -24,4 +24,4 @@ def solution(num_list):
 #   iterable: 결합할 문자열의 시퀀스(리스트, 튜플 등) 또는 반복 가능한 객체입니다.
 #1-2 map(function, iterable)
 #   function: 각 요소에 적용할 함수를 나타내는 함수 객체입니다.
-#   iterable: 함수를 적용할 시퀀스 또는 반복 가능한 객체입니다
+#   iterable: 함수를 적용할 시퀀스 또는 반복 가능한 객체입니다.
