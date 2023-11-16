@@ -1,0 +1,7 @@
+def solution(phone_number):
+    answer = ''
+    a = len(phone_number)
+    b = phone_number[a-4: a]
+    star = a - 4
+    answer = "*"*star+b
+    return answer
